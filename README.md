@@ -18,7 +18,7 @@ This project analyzes road accident data to provide actionable insights for enha
 - **README.md**: Project overview and instructions.
 
 ## Data Used  
-- <a href="https://github.com/NikhilChoudhary-93/HR-Data-Analysis-Dashboard/blob/main/HR_set.csv">Dataset</a>
+- <a href="https://github.com/NikhilChoudhary-93/Road-Safety-Analytics-Project/blob/main/Road%20Accident%20Data.csv">Dataset</a>
 
 ## Contact  
 For questions or collaboration, reach out via [LinkedIn](https://www.linkedin.com/in/nikhil-choudhary-6163a8263/).
